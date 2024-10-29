@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EfCoreCodeFirstApproachDemo01.props" />
+</Project>
