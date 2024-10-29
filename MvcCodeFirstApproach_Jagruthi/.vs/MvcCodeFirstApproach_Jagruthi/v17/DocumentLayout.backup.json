@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|c:\\users\\jayan\\source\\repos\\mvccodefirstapproach_jagruthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Migrations\\20241016072627_EmpInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016072627_EmpInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|c:\\users\\jayan\\source\\repos\\mvccodefirstapproach_jagruthi\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|solutionrelative:controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|c:\\users\\jayan\\source\\repos\\mvccodefirstapproach_jagruthi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|c:\\users\\jayan\\source\\repos\\mvccodefirstapproach_jagruthi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|c:\\users\\jayan\\source\\repos\\mvccodefirstapproach_jagruthi\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF430C-9BB0-4C33-A2AB-0B786B800D91}|MvcCodeFirstApproach_Jagruthi.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:25:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241016072627_EmpInit.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Migrations\\20241016072627_EmpInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016072627_EmpInit.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Migrations\\20241016072627_EmpInit.cs",
+              "RelativeToolTip": "Migrations\\20241016072627_EmpInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:26:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:13:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:30:19.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:21:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\jayan\\source\\repos\\MvcCodeFirstApproach_Jagruthi\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:41.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
